@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://everydayexplorer.github.io/sitemap.xml
